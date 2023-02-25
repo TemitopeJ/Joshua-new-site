@@ -91,6 +91,11 @@
     .card {
         margin-left: 15%;
     }
+
+    .project-text {
+        font-size: 12px;
+    }
+
     
 }
 
@@ -122,6 +127,10 @@
     .card {
         
         margin-left: 35%;
+    }
+
+    .project-text {
+        font-size: 12px;
     }
 
     
